@@ -1,0 +1,12 @@
+len of each field in the header
+len of each field in the record
+fields from the hearder to use in the key 
+fields from the rec to use in the key           
+fields from the header which are dates
+fields from the record which are dates             
+types of data, header: A: Alphanumeric; N: numeric
+types of data, rec0001
+order output header
+len of each field in the footer
+types of data, footer: A: Alphanumeric; N: numeric
+
